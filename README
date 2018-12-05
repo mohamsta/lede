@@ -21,9 +21,10 @@ To build your own firmware you need to have access to a Linux, BSD or MacOSX sys
 (case-sensitive filesystem required). Cygwin will not be supported because of
 the lack of case sensitiveness in the file system.
 
+This fork is a separate collaboration for the build environment for braiins. If you had
+difficulty with braiins then this should solve it. A very detailed way to create the build
+environment will accompany this as soon as the original issues are resolved
 
-Sunshine!
-	Your LEDE Community
 	http://www.lede-project.org
 
 
